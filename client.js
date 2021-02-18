@@ -1,4 +1,4 @@
-ar needle = require('needle');
+var needle = require('needle');
 
 main();
 
