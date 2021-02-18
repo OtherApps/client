@@ -7,3 +7,4 @@ npm install needle path readline url -G
 node client.js
 
 app.js   is  a standalone server.  It include  functions to display  a folder with media   and  an upload  file option 
+HTML folder includes files for uploading a file  among other views. 
